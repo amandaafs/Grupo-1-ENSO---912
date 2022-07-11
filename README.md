@@ -12,5 +12,5 @@ O usuário deve abrir no navegador a URL xxx/nome da operação/numero 1/ numero
 + **Amanda Fernandes dos Santos;** 
 + **Emilly Christiny Martins de Oliveira;** 
 + **Emilly Priscila dos Santos Oliveira;** 
-+**Emily Ferreira Bezerra;** 
++ **Emily Ferreira Bezerra.** 
 
