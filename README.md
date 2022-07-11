@@ -7,10 +7,10 @@ Bem-vindo ao software-alvo desenvolvido na disciplina de Engenharia de Software.
 
 O usuário deve abrir no navegador a URL xxx/nome da operação/numero 1/ numero 2, por exemplo, xxx/soma/5/2.
 
-## ✒️ Autores
+>## ✒️ Autores
 
-* **Amanda Fernandes dos Santos** 
-**Emilly Christiny Martins de Oliveira** 
-**Emilly Priscila dos Santos Oliveira** 
-**Emily Ferreira Bezerra** 
++ **Amanda Fernandes dos Santos;** 
++ **Emilly Christiny Martins de Oliveira;** 
++ **Emilly Priscila dos Santos Oliveira;** 
++**Emily Ferreira Bezerra;** 
 
