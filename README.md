@@ -5,7 +5,7 @@ Bem-vindo ao software-alvo desenvolvido na disciplina de Engenharia de Software.
 
 ## Como usar
 
-O usuário deve abrir no navegador a URL xxx/nome da oper ação/numero x/ numero 2, por exemplo, xxx/soma/5/2.
+O usuário deve abrir no navegador a URL xxx/nome da operação/numero 1/ numero 2, por exemplo, xxx/soma/5/2.
 
 >## ✒️ Autores
 
