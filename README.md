@@ -1,7 +1,7 @@
 
 # SOFTWARE-ALVO
 
-Bem-vindo ao software-alvo desenvolvido na disciplina de Engenharia de Software. Esse software de calculadora tem por objetivo o aprendizado de práticas de programação e permitir que o usuário realize operações matemáticas de maneira simples.
+Bem-vindo ao software-alvo desenvolvido na disciplina de Engenharia de Softwazre. Esse software de calculadora tem por objetivo  o aprendizado de práticas de programação e permitir que o usuário realize operações matemáticas de maneira simples.
 
 ## Como usar
 
