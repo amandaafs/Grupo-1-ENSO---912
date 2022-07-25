@@ -5,7 +5,9 @@ Bem-vindo ao software-alvo desenvolvido na disciplina de Engenharia de Softwazre
 
 ## Como usar
 
-O usuário deve abrir no navegador a URL xxx/nome da operação/y/z, por exemplo, xxx/soma/5/2.
+
+O usuário deve abrir no navegador a URL xxx/nome da operação/y/z, por exemplo, xxx/soma/5/2. O resultado será 2,5.
+
 
 >## ✒️ Autores
 
