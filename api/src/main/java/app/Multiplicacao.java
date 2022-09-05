@@ -5,6 +5,7 @@ import io.jooby.exception.BadRequestException;
 
 @Path ("/multiplicacao/{mult}/{mult2}")
 public class Multiplicacao {
+    
     @GET 
     public double  multcalcula (@PathParam("mult") String multStr, @PathParam("mult2") String mult2Str){
         try{
@@ -14,6 +15,5 @@ public class Multiplicacao {
         }catch (NumberFormatException nfe){
             throw new BadRequestException ("Operador inválido!");
         }
-    }
-    
+    } 
 }
