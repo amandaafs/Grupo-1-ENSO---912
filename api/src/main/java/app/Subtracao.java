@@ -16,9 +16,5 @@ public class Subtracao {
             throw new BadRequestException("Operador inválido!");
 
         }
-    }
-    
-
-    
-    
+    }   
 }
