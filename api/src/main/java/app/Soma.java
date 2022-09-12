@@ -3,14 +3,14 @@ package app;
 import io.jooby.annotations.*;
 import io.jooby.exception.BadRequestException;
 
-@Path ("/soma/{ad}/{ad2}")
+@Path ("/soma/{adicao}/{adicao2}")
 public class Soma{
     @GET
-    public double adcCalcula (@PathParam("ad") String adStr, @PathParam ("ad2") String ad2Str){
+    public double adcCalcula (@PathParam("adicao") String adicaoStr, @PathParam ("adicao2") String adicao2Str){
         try {
-            double ad = Double.parseDouble(adStr);
-            double ad2 = Double.parseDouble(ad2Str);
-            return (ad+ad2);
+            double adicao = Double.parseDouble(adicaoStr);
+            double adicao2 = Double.parseDouble(adicao2Str);
+            return (adicao+adicao2);
         }catch (NumberFormatException nfe){
             throw new BadRequestException("Operação inválida!");
         }

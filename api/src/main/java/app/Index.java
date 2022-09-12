@@ -7,6 +7,6 @@ public class Index {
 
   @GET
   public String sayHi() {
-    return "Welcome to Jooby!";
+    return "Bem-vindos a nossa API calculadora!";
   }
 }

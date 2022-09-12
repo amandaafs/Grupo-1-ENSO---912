@@ -21,7 +21,7 @@ public class IntegrationTest {
     Request req = new Request.Builder()
         .url("http://localhost:" + serverPort)
         .build();
-
+        
     try (Response rsp = client.newCall(req).execute()) {
       assertEquals("Welcome to Jooby!", rsp.body().string());
       assertEquals(StatusCode.OK.value(), rsp.code());
