@@ -14,7 +14,7 @@ public class SubtracaoTest {
     Subtracao subtracao;
 
     @BeforeEach
-    public void before(){
+    public void beforeEach(){
         subtracao = new Subtracao();
     }
     
