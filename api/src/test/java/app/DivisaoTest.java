@@ -37,7 +37,7 @@ public class DivisaoTest {
     }
 
     @Test
-    public void verificaDenominadorZero(){
+    public void verificaDivisaoPorZero(){
         assertThrows(BadRequestException.class, ()->{
             divisao.divCalcula("5", "0");
          });
