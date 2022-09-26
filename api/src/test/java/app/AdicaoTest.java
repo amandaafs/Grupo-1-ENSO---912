@@ -19,7 +19,7 @@ public class AdicaoTest {
     } 
 
     @Test
-    public void verifiCasoBase(){
+    public void verificaCasoBase(){
             double resultado = adicao.adcCalcula("10", "10");
             assertEquals(20, resultado);
     }
