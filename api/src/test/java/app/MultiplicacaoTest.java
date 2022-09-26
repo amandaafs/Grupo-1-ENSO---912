@@ -41,6 +41,6 @@ public class MultiplicacaoTest {
         assertThrows(BadRequestException.class, ()->{
             multiplicacao.multcalcula("2", "f");
         });
-                    }
+    }
     
 }
